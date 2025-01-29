@@ -1,5 +1,5 @@
 <h1>VisRAG Datasets</h1>
-This repo contains data used for testing in the [VisRAG Paper](https://arxiv.org/pdf/2410.10594). <br>
+This repo contains data used for testing in the VisRAG Paper: https://arxiv.org/pdf/2410.10594. <br>
 Datasets used in the paper are publicly available, however actually getting them can be tricky. <br>
 On top of that, authors of VisRAG paper applied filtering to both corpus (images used from the test/validation set) and queries (questions from test/validation set). <br>
 <br>
