@@ -8,15 +8,23 @@ Initial plan is to cover smaller datasets: ChartQA, InfographicsVQA, SlideQA and
 
 TODO: 
 Add text extracted with GPT4o for
-- InfoVQA
-- SlideVQA
-- MP-DocVQA
+- ~InfoVQA~ DONE
+- ~SlideVQA~ DONE
+- ~MP-DocVQA~ DONE
 Note that ChartQA already has text extraction in the original dataset so no additional data will be provided here.
 
 Add triplets of (question, answer, docid) where docid is the name of the image(s) which holds the answer for the question.
 These triplets will be for the questions actually used in the paper for:
+- ~InfoVQA~ DONE
+- ~SlideVQA~ DONE
+- ~MP-DocVQA~ DONE
+- ChartQA
+
+Add text descriptions from gpt (ask gpt to describe the image instead of just extracting text):
 - InfoVQA
 - SlideVQA
 - MP-DocVQA
+- ChartQA
+  
 
 
