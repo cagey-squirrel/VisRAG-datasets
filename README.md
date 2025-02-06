@@ -10,7 +10,7 @@ TODO:
 Add text extracted with GPT4o for
 - ~InfoVQA~ DONE
 - ~SlideVQA~ DONE
-- ~MP-DocVQA~ DONE
+- ~MP-DocVQA~ DONE <br>
 Note that ChartQA already has text extraction in the original dataset so no additional data will be provided here.
 
 Add triplets of (question, answer, docid) where docid is the name of the image(s) which holds the answer for the question.
